@@ -1,0 +1,6 @@
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\bin\Debug\TiposPrimitivos.exe.config
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\obj\Debug\TiposPrimitivos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\bin\Debug\TiposPrimitivos.exe
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\bin\Debug\TiposPrimitivos.pdb
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\obj\Debug\TiposPrimitivos.exe
+C:\Users\aluno\Documents\Projetos\01 - Tipos Primitivos\TiposPrimitivos\TiposPrimitivos\obj\Debug\TiposPrimitivos.pdb
